@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: https://findanythinganywhere.com/index.php?/admin/
+
